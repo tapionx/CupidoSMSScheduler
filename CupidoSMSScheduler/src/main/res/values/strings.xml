@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Cupido SMS Scheduler</string>
+    <string name="title_activity_new_sms">Nuovo SMS</string>
+    <string name="title_activity_first_run">Cupido SMS Scheduler</string>
+    <string name="title_activity_settings">Impostazioni</string>
+    <string name="welcome_message">Benveuto! Per iniziare seleziona un contatto dalla rubrica a cui inviare i messaggi. Potrai cambiarlo in seguito nella pagina delle Impostazioni.</string>
+    <string name="bottone_scegli_contatto">Scegli contatto</string>
+    <string name="nessun_messaggio">Non è presente nessun messaggio da inviare, puoi aggiungerne uno attraverso i bottoni in alto</string>
+    <string name="nuovo_messaggio">Inserisci il messaggio che vuoi inviare nel campo sottostante. Quando hai finito premi sul bottone &quot;Salva&quot;. L\'applicazione invierà automaticamente il messaggio al contatto selezionato.</string>
+    <string name="hint_nuovo_sms">Inserisci il nuovo SMS</string>
+    <string name="impostazioni">Impostazioni</string>
+    <string name="destinatario">Destinatario:</string>
+    <string name="cambia">Cambia</string>
+    <string name="ora_invio">Ora d\'invio</string>
+    <string name="modifica_ora">Modifica ora</string>
+    <string name="invia_ora">Invia ora</string>
+    <string name="modifica">Modifica</string>
+    <string name="elimina">Elimina</string>
+    <string name="aggiungi">Aggiungi</string>
+    <string name="salva">Salva</string>
+</resources>

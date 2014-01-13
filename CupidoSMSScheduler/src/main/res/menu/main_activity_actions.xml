@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:cupido="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/action_add"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="@string/aggiungi"
+        cupido:showAsAction="ifRoom"/>
+    <item android:id="@+id/action_settings"
+        android:icon="@android:drawable/ic_menu_manage"
+        android:title="@string/impostazioni"
+        android:orderInCategory="100"
+        cupido:showAsAction="ifRoom"/>
+</menu>
